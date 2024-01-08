@@ -1,0 +1,15 @@
+{
+    "name": "yurik/testing",
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Yuri Zhulev",
+            "email": "yuri.zhulyov@gmail.com"
+        }
+    ],
+    "require": {}
+}
